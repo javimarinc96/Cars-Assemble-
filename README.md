@@ -1,3 +1,4 @@
+![cars-assemble](https://user-images.githubusercontent.com/44240533/222984172-ecccd05d-9061-4a60-a4b2-029b72980ebe.svg)
 # Cars, Assemble!
 
 Welcome to Cars, Assemble! on Exercism's Java Track.
